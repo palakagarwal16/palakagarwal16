@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @palakagarwal16
-- 🌱 I’m currently learning DSA in java ,Manual testing , fullstack development.
+- 👋 Hi, I’m @palakagarwal16 , working on making meaningful impacts with my projects via exploring and collabrating  on various technologies.
+- 🌱 I’m currently learning DSA in java , fullstack development.
 - 💞️ I’m looking to collaborate on solving dsa questions together , learn and explore more.
 - 📫 How to reach me  my linkedin - linkedin.com/in/palak-agarwal-671b5424b
 - ⚡ Fun fact: My favorite language? Whichever one isn't throwing an error right now.
